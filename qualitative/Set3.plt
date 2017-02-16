@@ -19,7 +19,7 @@ set style line 11 lc rgb '#ccebc5'
 set style line 12 lc rgb '#ffed6f'
 
 # palette
-set palette maxcolors 8
+set palette maxcolors 12
 set palette defined ( 0 '#8dd3c7',\
 	1 '#ffffb3',\
 		      2 '#bebada',\

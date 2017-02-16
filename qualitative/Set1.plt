@@ -16,7 +16,7 @@ set style line 8 lc rgb '#F781BF'
 set style line 9 lc rgb '#999999'
 
 # palette
-set palette maxcolors 8
+set palette maxcolors 9
 set palette defined ( 0 '#E41A1C',\
       1 '#377EB8',\
 		      2 '#4DAF4A',\

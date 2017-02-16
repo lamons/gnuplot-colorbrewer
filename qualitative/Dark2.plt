@@ -17,7 +17,7 @@ set style line 8 lc rgb '#666666' # dark gray
 # palette
 set palette maxcolors 8
 set palette defined ( 0 '#1B9E77',\
-    	    	      1 '#D95F02',\
+      1 '#D95F02',\
 		      2 '#7570B3',\
 		      3 '#E7298A',\
 		      4 '#66A61E',\

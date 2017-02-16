@@ -21,7 +21,8 @@ f(x,4) ls 4 title 'line 4',\
 f(x,5) ls 5 title 'line 5',\
 f(x,6) ls 6 title 'line 6',\
 f(x,7) ls 7 title 'line 7',\
-f(x,8) ls 8 title 'line 8'
+f(x,8) ls 8 title 'line 8',\
+f(x,9) ls 9 title 'line 9'
 
 # plot with Paired
 set title 'Paired'
@@ -33,7 +34,11 @@ f(x,4) ls 4 title 'line 4',\
 f(x,5) ls 5 title 'line 5',\
 f(x,6) ls 6 title 'line 6',\
 f(x,7) ls 7 title 'line 7',\
-f(x,8) ls 8 title 'line 8'
+f(x,8) ls 8 title 'line 8',\
+f(x,9) ls 9 title 'line 9',\
+f(x,10) ls 10 title 'line 10',\
+f(x,11) ls 11 title 'line 11',\
+f(x,12) ls 12 title 'line 12'
 
 # plot with Accent
 set title 'Accent'
@@ -57,7 +62,8 @@ f(x,4) ls 4 title 'line 4',\
 f(x,5) ls 5 title 'line 5',\
 f(x,6) ls 6 title 'line 6',\
 f(x,7) ls 7 title 'line 7',\
-f(x,8) ls 8 title 'line 8'
+f(x,8) ls 8 title 'line 8',\
+f(x,9) ls 9 title 'line 9'
 
 # plot with Set2
 set title 'Set2'
@@ -105,4 +111,8 @@ f(x,4) ls 4 title 'line 4',\
 f(x,5) ls 5 title 'line 5',\
 f(x,6) ls 6 title 'line 6',\
 f(x,7) ls 7 title 'line 7',\
-f(x,8) ls 8 title 'line 8'
+f(x,8) ls 8 title 'line 8',\
+f(x,9) ls 9 title 'line 9',\
+f(x,10) ls 10 title 'line 10',\
+f(x,11) ls 11 title 'line 11',\
+f(x,12) ls 12 title 'line 12'

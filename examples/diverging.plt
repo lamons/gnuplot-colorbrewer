@@ -31,12 +31,12 @@ do for [pal in "BrBG PiYG PRGn PuOr RdBu RdGy RdYlBu RdYlGn Spectral"] {
     # plot colorbar
     set lmargin 4
     set rmargin 4
-    plot 'data.txt' u 1:2:3 w image
+    plot 'data_11.txt' u 1:2:3 w image
     # plot lines
     set label 1 pal at -1,0 left front
     set lmargin -6
     set rmargin 1
-    plot for [ii=1:8] f(x,ii) ls ii lw 2
+    plot for [ii=1:11] f(x,ii) ls ii lw 2
     unset label
 }
 

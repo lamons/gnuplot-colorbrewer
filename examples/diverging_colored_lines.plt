@@ -21,7 +21,10 @@ f(x,4) ls 4 title 'line 4',\
 f(x,5) ls 5 title 'line 5',\
 f(x,6) ls 6 title 'line 6',\
 f(x,7) ls 7 title 'line 7',\
-f(x,8) ls 8 title 'line 8'
+f(x,8) ls 8 title 'line 8',\
+f(x,9) ls 9 title 'line 9',\
+f(x,10) ls 10 title 'line 10',\
+f(x,11) ls 11 title 'line 11'
 
 # plot with PiYG
 set title 'PiYG'
@@ -33,7 +36,11 @@ f(x,4) ls 4 title 'line 4',\
 f(x,5) ls 5 title 'line 5',\
 f(x,6) ls 6 title 'line 6',\
 f(x,7) ls 7 title 'line 7',\
-f(x,8) ls 8 title 'line 8'
+f(x,8) ls 8 title 'line 8',\
+f(x,9) ls 9 title 'line 9',\
+f(x,10) ls 10 title 'line 10',\
+f(x,11) ls 11 title 'line 11'
+
 
 # plot with PRGn
 set title 'PRGn'
@@ -45,7 +52,11 @@ f(x,4) ls 4 title 'line 4',\
 f(x,5) ls 5 title 'line 5',\
 f(x,6) ls 6 title 'line 6',\
 f(x,7) ls 7 title 'line 7',\
-f(x,8) ls 8 title 'line 8'
+f(x,8) ls 8 title 'line 8',\
+f(x,9) ls 9 title 'line 9',\
+f(x,10) ls 10 title 'line 10',\
+f(x,11) ls 11 title 'line 11'
+
 
 # plot with PuOr
 set title 'PuOr'
@@ -57,7 +68,11 @@ f(x,4) ls 4 title 'line 4',\
 f(x,5) ls 5 title 'line 5',\
 f(x,6) ls 6 title 'line 6',\
 f(x,7) ls 7 title 'line 7',\
-f(x,8) ls 8 title 'line 8'
+f(x,8) ls 8 title 'line 8',\
+f(x,9) ls 9 title 'line 9',\
+f(x,10) ls 10 title 'line 10',\
+f(x,11) ls 11 title 'line 11'
+
 
 # plot with RdBu
 set title 'RdBu'
@@ -69,7 +84,11 @@ f(x,4) ls 4 title 'line 4',\
 f(x,5) ls 5 title 'line 5',\
 f(x,6) ls 6 title 'line 6',\
 f(x,7) ls 7 title 'line 7',\
-f(x,8) ls 8 title 'line 8'
+f(x,8) ls 8 title 'line 8',\
+f(x,9) ls 9 title 'line 9',\
+f(x,10) ls 10 title 'line 10',\
+f(x,11) ls 11 title 'line 11'
+
 
 # plot with RdGy
 set title 'RdGy'
@@ -81,7 +100,11 @@ f(x,4) ls 4 title 'line 4',\
 f(x,5) ls 5 title 'line 5',\
 f(x,6) ls 6 title 'line 6',\
 f(x,7) ls 7 title 'line 7',\
-f(x,8) ls 8 title 'line 8'
+f(x,8) ls 8 title 'line 8',\
+f(x,9) ls 9 title 'line 9',\
+f(x,10) ls 10 title 'line 10',\
+f(x,11) ls 11 title 'line 11'
+
 
 # plot with RdYlBu
 set title 'RdYlBu'
@@ -93,7 +116,11 @@ f(x,4) ls 4 title 'line 4',\
 f(x,5) ls 5 title 'line 5',\
 f(x,6) ls 6 title 'line 6',\
 f(x,7) ls 7 title 'line 7',\
-f(x,8) ls 8 title 'line 8'
+f(x,8) ls 8 title 'line 8',\
+f(x,9) ls 9 title 'line 9',\
+f(x,10) ls 10 title 'line 10',\
+f(x,11) ls 11 title 'line 11'
+
 
 # plot with RdYlGn
 set title 'RdYlGn'
@@ -105,7 +132,11 @@ f(x,4) ls 4 title 'line 4',\
 f(x,5) ls 5 title 'line 5',\
 f(x,6) ls 6 title 'line 6',\
 f(x,7) ls 7 title 'line 7',\
-f(x,8) ls 8 title 'line 8'
+f(x,8) ls 8 title 'line 8',\
+f(x,9) ls 9 title 'line 9',\
+f(x,10) ls 10 title 'line 10',\
+f(x,11) ls 11 title 'line 11'
+
 
 # plot with Spectral
 set title 'Spectral'
@@ -117,4 +148,8 @@ f(x,4) ls 4 title 'line 4',\
 f(x,5) ls 5 title 'line 5',\
 f(x,6) ls 6 title 'line 6',\
 f(x,7) ls 7 title 'line 7',\
-f(x,8) ls 8 title 'line 8'
+f(x,8) ls 8 title 'line 8',\
+f(x,9) ls 9 title 'line 9',\
+f(x,10) ls 10 title 'line 10',\
+f(x,11) ls 11 title 'line 11'
+

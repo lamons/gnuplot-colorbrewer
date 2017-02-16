@@ -31,7 +31,7 @@ do for [pal in "Blues BuPu Greens Oranges PuBuGn PuRd RdPu YlGnBu YlOrBr BuGn Gn
     # plot colorbar
     set lmargin 4
     set rmargin 4
-    plot 'data.txt' u 1:2:3 w image
+    plot 'data_8.txt' u 1:2:3 w image
     # plot lines
     set label 1 pal at -1,0 left front
     set lmargin -6
